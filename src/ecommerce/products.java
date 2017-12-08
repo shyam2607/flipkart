@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class  products 
 {
 	public static WebDriver driver;
-	String url= "https://www.flipkart.commmmmmmmm/";
+	String url= "https://www.flipkart.com/";
 	@BeforeTest
 	 	public void setup() throws InterruptedException
      { 
